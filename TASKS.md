@@ -1,0 +1,3 @@
+- [x] Add gpdf Homebrew formula
+- [x] Update README with available formula(s)
+- [x] Remove placeholder if no longer needed
