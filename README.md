@@ -14,6 +14,10 @@ brew tap jgusta/tap
 brew install jgusta/tap/<formula_name>
 ```
 
+## Available formulas
+
+- `gpdf`: grep-like search for PDFs
+
 ## Contributing formulas
 
 Place formula files in the `Formula/` directory, named `<formula_name>.rb`.
